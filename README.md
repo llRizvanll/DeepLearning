@@ -1,7 +1,7 @@
 # Udacity Deep Learning Nanodegree Projects
 
 
-### [Project 2](neural-network):
+### [Project 1](neural-network):
 Build a neural network to predict daily bike rental ridership.
  
 [Notebook](neural-network/dlnd-your-first-neural-network.ipynb)
