@@ -12,6 +12,6 @@ Build a neural network to predict daily bike rental ridership.
 
 ### [Project 3](tv_script_generation):
 
-### [Project 4](language-translation)
+### [Project 4](language-translation):
 
-### [Project 5](generate-faces)
+### [Project 5](generate_faces):
